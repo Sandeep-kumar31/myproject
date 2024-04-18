@@ -26,7 +26,7 @@ SECRET_KEY = '5@mi&@phyba6i#dr#mqq85s$sk81a!=!+-)1qbfcoxe-ptlwxn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-ci-cd-hospital-env.eba-ms282did.eu-west-1.elasticbeanstalk.com','127.0.0.1']
+ALLOWED_HOSTS = ['worldinformationapp-env.eba-xxpigapr.us-east-1.elasticbeanstalk.com','127.0.0.1']
 
 
 # Application definition
